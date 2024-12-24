@@ -1,0 +1,6 @@
+[submodule "navigatorX"]
+	path = navigatorX
+	url = https://github.com/lintang-b-s/navigatorX
+[submodule "osm-search"]
+	path = osm-search
+	url = git@github.com:lintang-b-s/osm-search.git
